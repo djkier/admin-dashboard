@@ -1,0 +1,9 @@
+div {
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    color: red;
+    display: grid;
+    place-items: center;
+    font-weight: 800;
+}
