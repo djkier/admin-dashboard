@@ -3,6 +3,8 @@
 
 This project is an admin dashboard designed to provide an intuitive and visually appealing interface for managing various administrative tasks.
 
+[View the website here](https://djkier.github.io/admin-dashboard/)
+
 ## Features
 
 -   **Grid Layout**: The dashboard is built using CSS Grid, making it easy to structure and align the various components, such as the navbar, aside, main content area, and header.
