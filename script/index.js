@@ -1,8 +1,8 @@
 const width = document.querySelector('nav');
+const about = document.querySelector('#about-me');
+const stacks = document.querySelector('#front-end-stacks');
+const develop = document.querySelector('.developer');
 
 
-function callWidth () {
-console.log(width.clientHeight);
-}
 
-callWidth();
+console.log(develop.clientHeight)
