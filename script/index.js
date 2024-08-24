@@ -1,3 +1,8 @@
-const div = document.querySelector('div');
+const width = document.querySelector('nav');
 
-div.textContent = 'Hello World'
+
+function callWidth () {
+console.log(width.clientHeight);
+}
+
+callWidth();
